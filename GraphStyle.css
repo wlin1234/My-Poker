@@ -1,0 +1,8 @@
+
+.default-color0.chart-bar { -fx-bar-fill: #0046b7;-fx-effect: dropshadow( gaussian , rgba(0,0,0,0.4) , 10,0,3,5 ); }
+.default-color1.chart-bar { -fx-bar-fill:#b7002d;-fx-effect: dropshadow( gaussian , rgba(0,0,0,0.4) , 10,0,3,5 );}
+.default-color0.chart-pie { -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.6) , 10,0,3,5 );-fx-pie-color: #82bfb8; }
+.default-color1.chart-pie { -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.6) , 10,0,3,5 );-fx-pie-color: #5cd841; }
+.default-color2.chart-pie { -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.6) , 10,0,3,5 );-fx-pie-color: #5b8460; }
+.default-color3.chart-pie { -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.6) , 10,0,3,5 );-fx-pie-color: #c13c66; }
+.default-color4.chart-pie { -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.6) , 10,0,3,5 );-fx-pie-color:  #860061;}
